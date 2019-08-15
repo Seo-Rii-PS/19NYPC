@@ -13,3 +13,4 @@
  - prob 15 [![Solved](https://img.shields.io/badge/Status-Solved-green.svg)](https://github.com/04SeoHyun/19NYPC/tree/master/15)
  - prob 16 [![Solving](https://img.shields.io/badge/Status-Solving-yellow.svg)](https://github.com/04SeoHyun/19NYPC/tree/master/16)
  - prob 17 [![Pending](https://img.shields.io/badge/Status-Pending-red.svg)](https://github.com/04SeoHyun/19NYPC/tree/master/17)
+ - prob 18 [![Wrong](https://img.shields.io/badge/Status-Wrong-red.svg)](https://github.com/04SeoHyun/19NYPC/tree/master/17)
